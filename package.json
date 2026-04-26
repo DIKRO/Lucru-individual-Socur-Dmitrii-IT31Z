@@ -1,0 +1,23 @@
+{
+  "name": "lucru-individual-socur-dmitrii-it31z",
+  "version": "1.0.0",
+  "description": "LI, Socur Dmitrii, it31Z, тема: \"РЕГРЕССИОННОЕ ТЕСТИРОВАНИЕ И ЕГО ВАЖНОСТЬ В ОБЕСПЕЧЕНИИ КАЧЕСТВА ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIKRO/Lucru-individual-Socur-Dmitrii-IT31Z.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIKRO/Lucru-individual-Socur-Dmitrii-IT31Z/issues"
+  },
+  "homepage": "https://github.com/DIKRO/Lucru-individual-Socur-Dmitrii-IT31Z#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
