@@ -1,6 +1,5 @@
-// Функция корректно вычитает скидку из цены товара
 function calculateTotal(price, discount) {
-    if (discount < 0 || discount > price) return price;
-    return price - discount;
+    const tax = price * 0.05;
+    // ОШИБКА: Забыли применить вычитание скидки (discount)
+    return price + tax; 
 }
-module.exports = calculateTotal;
